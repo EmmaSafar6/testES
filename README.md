@@ -2,4 +2,4 @@
 
 https://github.com/EmmaSafar6/testES.git
 
-SELECT * FROM `racuni
+SELECT 'stavke' FROM `racuni` WHERE iznos=20;
